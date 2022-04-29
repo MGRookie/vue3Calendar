@@ -1,0 +1,15 @@
+{
+  "name": "calendar-vue3-slot",
+  "version": "1.0.0",
+  "description": "可扩展vue3日期组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue3",
+    "calendar"
+  ],
+  "author": "gaoluo",
+  "license": "MIT"
+}
